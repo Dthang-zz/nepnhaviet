@@ -1,0 +1,8 @@
+{
+  "name": "Nếp Nhà Việt — Hồ sơ số kiến trúc nhà ở truyền thống",
+  "description": "Kho lưu trữ học thuật số và đồ bản kiến trúc nhà ở dân gian truyền thống Việt Nam. Dự án thu thập, bảo tồn và số hóa các cấu kiện vì kèo, thước tầm và không gian sống dân gian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
